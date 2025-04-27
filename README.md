@@ -5,6 +5,10 @@ LPC1768 microcontrollers.
 
 ---
 
+<img src="images/general/intro_photo.jpg" alt="Remote Control Car Image"/>
+
+---
+
 ## Built with
 - C++
 - [MBed OS6](https://os.mbed.com/docs/mbed-os/v6.16/introduction/index.html)
