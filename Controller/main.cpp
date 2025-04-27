@@ -1,12 +1,3 @@
-/*
-    Contributors:
-        Eddie Kwak - B.S. Computer Engineering
-        Matthew Pham - M.S. Biomedical Engineering
-    
-    Description:
-        Contains all code related to the remote controller.
-*/
-
 #include "mbed.h"
 #include "icm20948.h"
 #include <cstdio>

@@ -1,13 +1,3 @@
-/*
-    Contributors:
-        Eddie Kwak - B.S. Computer Engineering
-        Matthew Pham - M.S. Biomedical Engineering
-    
-    Description:
-        Contains all code related to the behavior of the remote
-        controlled car.
-*/
-
 #include "mbed.h"
 #include "TB6612FNG.h"
 #include <chrono>
